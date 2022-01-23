@@ -1,6 +1,4 @@
+# Rest Api service 
 ## Info about project
-
-## Rest Api service 
-
 ## Возрат данных по тегу 
-### Формат запроса /find?teg=cat
+#### Формат запроса /find?teg=cat
